@@ -13,7 +13,7 @@ Postorder traversal: x y z + a b – c * / –
 
 Preorder traversal: * + a – x y / c d
 
-![image](https://github.com/Cs-303/Homework4/assets/113368129/7ad35305-3e1e-48a9-82b1-a6ae5047dceb)
+![image](https://github.com/Cs-303/Homework4/assets/113368129/71b5dcd1-0019-4ac3-b5c3-6028067b8ea9)
 
 
 Binary Tree Search: 30, 15, 4, NULL, NULL, 20, 18, NULL, 19, NULL, NULL, NULL, 35, 32, NULL, NULL, 38, NULL, NULL
