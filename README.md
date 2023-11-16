@@ -6,7 +6,7 @@ Inorder traversal:  x / y + 3 * b / c
 ![image](https://github.com/Cs-303/Homework4/assets/113368129/e45f7e67-585b-4c12-8632-8e7d1112455a)
 
 
-Postorder traversal:  y z + a b – c * / –
+Postorder traversal: x y z + a b – c * / –
 
 ![image](https://github.com/Cs-303/Homework4/assets/113368129/a17cbaa1-0c72-420f-a297-334ff69bd814)
 
